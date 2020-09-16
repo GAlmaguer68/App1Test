@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ABig2sGBCFYQGeOxhM/h+tK5ybwcIdCBckrB7AEQOSigl1nAtwGraSsIhZQMQgd/ELZHukDGodFoILdv0cO6ag==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\App1Test\\App1Test\\App1Test\\App1Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\xamarin.forms\\4.8.0.1364\\xamarin.forms.4.8.0.1364.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\xamarin.forms.inputkit\\3.4.0\\xamarin.forms.inputkit.3.4.0.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\xamarin.forms.visual.material\\4.8.0.1364\\xamarin.forms.visual.material.4.8.0.1364.nupkg.sha512"
+  ],
+  "logs": []
+}
