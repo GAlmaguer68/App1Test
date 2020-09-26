@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "R1B7tRTh8FH4byTMepsF6MxCUo5mZkzYg87yDLxZM9AE8wGgA9mu9QUSiwfwlEnHsnjszi24Yo/od1+h6MpbuQ==",
+  "dgSpecHash": "h7ajFuLnZDTWN2EWEyjP63Sm6lUeAR1YMjPx9zessCMpS8m0H2AiGbOfr0gZd5uRWTO1m5nxSF6UWG0kcealTg==",
   "success": true,
   "projectFilePath": "C:\\Projects\\App1Test\\App1Test\\App1Test.Android\\App1Test.Android.csproj",
   "expectedPackageFiles": [
@@ -42,9 +42,9 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.versionedparcelable\\28.0.0.3\\xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\gusta\\.nuget\\packages\\xamarin.forms\\4.8.0.1364\\xamarin.forms.4.8.0.1364.nupkg.sha512",
-    "C:\\Users\\gusta\\.nuget\\packages\\xamarin.forms.inputkit\\3.4.0\\xamarin.forms.inputkit.3.4.0.nupkg.sha512",
-    "C:\\Users\\gusta\\.nuget\\packages\\xamarin.forms.visual.material\\4.8.0.1364\\xamarin.forms.visual.material.4.8.0.1364.nupkg.sha512"
+    "C:\\Users\\gusta\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\xamarin.forms.inputkit\\3.4.1\\xamarin.forms.inputkit.3.4.1.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\xamarin.forms.visual.material\\4.8.0.1451\\xamarin.forms.visual.material.4.8.0.1451.nupkg.sha512"
   ],
   "logs": []
 }
