@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1Test.Android", "App1Tes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1Test.iOS", "App1Test\App1Test.iOS\App1Test.iOS.csproj", "{2D127ECC-31B5-40B7-8BB8-C0E2CF53E6C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1Test", "App1Test\App1Test\App1Test.csproj", "{C1ADA516-0BAF-443A-8D3F-AFB18413F229}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App1Test", "App1Test\App1Test\App1Test.csproj", "{C1ADA516-0BAF-443A-8D3F-AFB18413F229}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,7 +38,6 @@ Global
 		{EFFB6DA8-7B9D-4E7A-8B40-8B8DCD34FC61}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{EFFB6DA8-7B9D-4E7A-8B40-8B8DCD34FC61}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
 		{2D127ECC-31B5-40B7-8BB8-C0E2CF53E6C9}.Debug|Any CPU.ActiveCfg = Debug|iPhone
-		{2D127ECC-31B5-40B7-8BB8-C0E2CF53E6C9}.Debug|Any CPU.Build.0 = Debug|iPhone
 		{2D127ECC-31B5-40B7-8BB8-C0E2CF53E6C9}.Debug|Any CPU.Deploy.0 = Debug|iPhone
 		{2D127ECC-31B5-40B7-8BB8-C0E2CF53E6C9}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{2D127ECC-31B5-40B7-8BB8-C0E2CF53E6C9}.Debug|iPhone.Build.0 = Debug|iPhone
